@@ -1,0 +1,22 @@
+.avatar img{
+    width: 200px;
+}
+.comment-card {
+    margin-bottom: 20px; /* Khoảng cách giữa các card */
+    border: 1px solid black; /* Đường viền của card */
+    padding: 20px; /* Khoảng cách bên trong card */
+    border-radius: 50px;
+    
+  }
+  
+  .comment-card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Hiệu ứng đổ bóng khi di chuột vào */
+  }
+  .btn-outline-success{
+    border-color: green;
+    color: green;
+  }
+  .btn-outline-danger{
+    border-color: red;
+    color: red;
+  }
